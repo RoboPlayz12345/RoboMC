@@ -1,2 +1,0 @@
-import launcher
-launcher.main()
