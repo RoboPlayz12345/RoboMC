@@ -1,3 +1,3 @@
 @echo off
-python launcher.py
-pause
+cd /d "%~dp0"
+start "" pythonw launcher.py
