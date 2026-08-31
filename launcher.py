@@ -1,2 +1,2 @@
-import launcher_core
-launcher_core.main()
+import launcher
+launcher.main()
